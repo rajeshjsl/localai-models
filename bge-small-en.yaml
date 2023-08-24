@@ -13,3 +13,4 @@ config_file: |
       model: BAAI/bge-small-en
     embeddings: true
 
+# PRELOAD_MODELS = [{"url": "github:rajeshjsl/localai-models/bge-small-en.yaml"}]
