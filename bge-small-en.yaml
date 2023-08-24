@@ -14,3 +14,4 @@ config_file: |
     embeddings: true
 
 # PRELOAD_MODELS = [{"url": "github:rajeshjsl/localai-models/bge-small-en.yaml"}]
+# It only seems to be creating the yaml file in the model folder, but doesn't preload into memory.
