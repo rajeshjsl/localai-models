@@ -1,6 +1,15 @@
-name: bge-small-en
-backend: huggingface-embeddings
-parameters:
-  model: BAAI/bge-small-en
-embeddings: true
+name: "bge-small-en"
+
+description: |
+  bge-small-en
+
+license: "Apache 2.0"
+urls:
+- https://huggingface.co/BAAI/bge-small-en
+config_file: |
+    name: bge-small-en
+    backend: huggingface-embeddings
+    parameters:
+      model: BAAI/bge-small-en
+    embeddings: true
 
