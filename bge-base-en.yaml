@@ -1,0 +1,5 @@
+name: bge-base-en
+backend: huggingface-embeddings
+parameters:
+  model: BAAI/bge-base-en
+embeddings: true

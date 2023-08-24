@@ -1,0 +1,6 @@
+name: bge-small-en
+backend: huggingface-embeddings
+parameters:
+  model: BAAI/bge-small-en
+embeddings: true
+

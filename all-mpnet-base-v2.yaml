@@ -1,0 +1,5 @@
+name: all-mpnet-base-v2  
+backend: huggingface-embeddings
+parameters:
+  model: all-mpnet-base-v2 
+embeddings: true

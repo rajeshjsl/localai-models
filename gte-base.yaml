@@ -1,0 +1,6 @@
+name: gte-base
+backend: huggingface-embeddings
+parameters:
+  model: thenlper/gte-base
+embeddings: true
+

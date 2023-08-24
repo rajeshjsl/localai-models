@@ -1,0 +1,5 @@
+name: all-MiniLM-L6-v2  
+backend: huggingface-embeddings
+parameters:
+  model: all-MiniLM-L6-v2 
+embeddings: true

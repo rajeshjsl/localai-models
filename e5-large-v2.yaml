@@ -1,0 +1,5 @@
+name: e5-large-v2  
+backend: huggingface-embeddings
+parameters:
+  model: intfloat/e5-large-v2 
+embeddings: true
